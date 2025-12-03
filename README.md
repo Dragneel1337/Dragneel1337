@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, Adventurer 👋
 
-<!--
-**Dragneel1337/Dragneel1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dragneel**, a frontend developer based in **Poland**.
 
-Here are some ideas to get you started:
+I’m pursuing my childhood dream of becoming a computer specialist — crafting experiences that non-technical people often describe as pure *magic* ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve worked on several projects, but my **most notable contribution** so far is the **Trybik App**.
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,sass&theme=light" />
+</p>
